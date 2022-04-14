@@ -1,0 +1,374 @@
+{
+	"awards": {
+		"heading": "Awards",
+		"visible": true
+	},
+	"certifications": {
+		"heading": "Certifications",
+		"items": [
+			{
+				"date": "2020-05-01",
+				"id": "e9b9d545-db8e-44d3-aeb3-130fe9d316a0",
+				"issuer": "ISC2",
+				"summary": "",
+				"title": "Certified Information Systems Security Professional, CISSP"
+			},
+			{
+				"date": "2021-12-01",
+				"id": "6a71fc7c-b3ef-461e-bdb4-87b6f5807b0f",
+				"issuer": "Center for Creative Leadership",
+				"summary": "",
+				"title": "Maximizing Your Leadership Potential"
+			}
+		],
+		"visible": true
+	},
+	"education": {
+		"heading": "Education",
+		"items": [
+			{
+				"degree": "B.S.",
+				"endDate": "",
+				"field": "Computer Information Systems",
+				"gpa": "",
+				"id": "a76ca727-1956-41e7-95b3-f5504b4412ee",
+				"institution": "Clemson University",
+				"startDate": "",
+				"summary": ""
+			}
+		],
+		"visible": true
+	},
+	"hobbies": {
+		"heading": "Hobbies",
+		"visible": true
+	},
+	"languages": {
+		"heading": "Languages",
+		"items": [
+			{
+				"fluency": "Fluent",
+				"id": "a5f13048-8435-4946-bd25-9ea173d4f130",
+				"name": "Python"
+			},
+			{
+				"fluency": "Fluent",
+				"id": "5287d41c-b975-44c1-9734-e2b1a196a18f",
+				"name": "Powershell"
+			},
+			{
+				"fluency": "Knowledgeable",
+				"id": "fe51ccdd-2ba0-4863-bc38-6df815cb58ff",
+				"isVisible": true,
+				"name": "Javascript"
+			},
+			{
+				"fluency": "Fleunt",
+				"id": "fcc79770-0d38-477b-9743-060279a3b33d",
+				"name": "HTML"
+			},
+			{
+				"fluency": "Knowledgeable",
+				"id": "d304eaad-2b57-4145-bb9f-eaa67881fcd2",
+				"name": "Java"
+			},
+			{
+				"fluency": "Knowledgeable",
+				"id": "e6a4abfb-4d86-41c7-bc66-d4e82294e854",
+				"name": "Groovy"
+			},
+			{
+				"fluency": "Knowledgeable",
+				"id": "223cfdcb-daac-488c-a3f0-40413696a1a7",
+				"name": "C\\C++"
+			},
+			{
+				"fluency": "Knowledgeable",
+				"id": "1e9ee7ce-d6cc-492e-81cd-934269d579fe",
+				"name": "jQuery"
+			},
+			{
+				"fluency": "Knowledgeable",
+				"id": "3bd33468-fc94-4756-b962-3f137e540f82",
+				"name": "Angular"
+			}
+		],
+		"visible": true
+	},
+	"metadata": {
+		"colors": {
+			"background": "#FFFFFF",
+			"primary": "#FF5722",
+			"text": "#444444"
+		},
+		"font": "Montserrat",
+		"fontSize": "7",
+		"language": "en",
+		"layout": {
+			"castform": [
+				[
+					"awards",
+					"certifications",
+					"languages",
+					"hobbies"
+				],
+				[
+					"objective",
+					"work",
+					"education",
+					"skills",
+					"projects",
+					"references"
+				]
+			],
+			"celebi": [
+				[
+					"awards",
+					"certifications",
+					"languages",
+					"hobbies"
+				],
+				[
+					"objective",
+					"work",
+					"education",
+					"skills",
+					"projects",
+					"references"
+				]
+			],
+			"gengar": [
+				[
+					"objective",
+					"skills"
+				],
+				[
+					"awards",
+					"certifications",
+					"languages",
+					"references",
+					"hobbies"
+				],
+				[
+					"work",
+					"education",
+					"projects"
+				]
+			],
+			"glalie": [
+				[
+					"awards",
+					"certifications",
+					"hobbies"
+				],
+				[
+					"objective",
+					"work",
+					"education",
+					"skills",
+					"projects",
+					"languages",
+					"references"
+				]
+			],
+			"onyx": [
+				[
+					"objective",
+					"work",
+					"education",
+					"projects"
+				],
+				[
+					"hobbies",
+					"languages",
+					"awards",
+					"certifications"
+				],
+				[
+					"skills",
+					"references"
+				]
+			],
+			"pikachu": [
+				[
+					"skills",
+					"languages",
+					"hobbies",
+					"awards",
+					"certifications"
+				],
+				[
+					"work",
+					"education",
+					"projects",
+					"references"
+				]
+			]
+		},
+		"template": "pikachu"
+	},
+	"objective": {
+		"body": "",
+		"heading": "Objective",
+		"visible": true
+	},
+	"preview": "https://images.unsplash.com/photo-1617361128872-98f8c03f6b63?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=600&ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjE4MzIyNjM3&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=400",
+	"profile": {
+		"address": {
+			"city": "Charleston, SC",
+			"line1": "",
+			"line2": "",
+			"pincode": ""
+		},
+		"birthDate": "",
+		"email": "shane@keels.io",
+		"firstName": "Shane",
+		"heading": "Profile",
+		"lastName": "Keels",
+		"phone": "",
+		"photograph": "https://firebasestorage.googleapis.com/v0/b/rx-resume.appspot.com/o/users%2F7LhoVkOOcJejXvgbE9zs85uTLU83%2Fphotographs%2F39yqxc?alt=media&token=b59cfa35-4988-4649-83f0-e1cde203b75f",
+		"subtitle": "Application Security | CISSP",
+		"website": ""
+	},
+	"projects": {
+		"heading": "Projects",
+		"visible": true
+	},
+	"public": true,
+	"references": {
+		"heading": "References",
+		"visible": true
+	},
+	"skills": {
+		"heading": "Security",
+		"items": [
+			{
+				"id": "6b25b251-0740-4acf-8b2a-ce5c19341141",
+				"level": " ",
+				"name": "Checkmarx"
+			},
+			{
+				"id": "178b7901-fb61-4caa-84ef-e4fc460f3791",
+				"level": " ",
+				"name": "Whitesource"
+			},
+			{
+				"id": "62edd055-3985-4406-96c0-db0d8aa7efd4",
+				"level": "",
+				"name": "BlackDuck"
+			},
+			{
+				"id": "da8aafc6-7471-459b-bfef-d638cf437710",
+				"level": "",
+				"name": "Qualys"
+			},
+			{
+				"id": "628d7fd6-2ecf-493d-bbf3-7d7bcb8aae6e",
+				"level": " ",
+				"name": "Rapid7 InsightAppSec"
+			},
+			{
+				"id": "2b27ecc1-657d-4685-b022-16774674c8e6",
+				"level": "",
+				"name": "Rapid7 InsightVM"
+			},
+			{
+				"id": "2985b58a-442b-4877-a580-4fe8a013d26f",
+				"level": "",
+				"name": "Brinqa"
+			},
+			{
+				"id": "f20b5144-6906-4200-94bf-884facbc4657",
+				"level": "",
+				"name": "Twistlock"
+			},
+			{
+				"id": "77a83d03-7542-4be0-a716-f03a8b1d7a3c",
+				"level": "",
+				"name": "BugCrowd"
+			},
+			{
+				"id": "d387ed05-40be-4680-a7ab-0b15f8fe355a",
+				"level": "",
+				"name": "DivvyCloud"
+			},
+			{
+				"id": "6948770c-ee91-4972-89ec-b3b1a9d68bb0",
+				"isVisible": true,
+				"level": "",
+				"name": "SecurityScoreCard"
+			},
+			{
+				"id": "2219745f-9095-43ff-913d-3739f31f9397",
+				"level": " ",
+				"name": "BitSight"
+			},
+			{
+				"id": "c0aaa96c-6ecd-4526-99c3-8b60a5133f47",
+				"level": "",
+				"name": "Burp Suite"
+			},
+			{
+				"id": "9b298dc7-43e2-45e5-ba92-a74558dca466",
+				"level": "",
+				"name": "CyCognito"
+			}
+		],
+		"visible": true
+	},
+	"social": {
+		"heading": "Social Network",
+		"visible": true
+	},
+	"work": {
+		"heading": "Work Experience",
+		"items": [
+			{
+				"company": "Team Lead | Application Security",
+				"endDate": "",
+				"id": "c9a319f0-b13c-4024-949a-88275f18f379",
+				"position": "Blackbaud",
+				"startDate": "2021-07-01",
+				"summary": "Actively managing an Application Security team supporting 80+ products with responsibilities over \n\n* WAF (Web Application Firewall)\n* SAST (Static Application Security Testing)\n* SCA (Software Composition Analysis)\n* DAST (Dynamic Application Security Testing)\n* ASM (Attack Surface Management)\n* RDP (Responsible Disclosure Program)\n* Consolidated Product oriented Cyber Risk Analytics\n\nand most importantly, facilitating a positive and beneficial relationship with the development community by building security into our Products\n\n* Assessed application and software security risk of potential acquisitions to ensure Blackbaud is making an informed decision during the Mergers & Acquisition (M&A) due diligence process. \n",
+				"website": ""
+			},
+			{
+				"company": "Principal Security Engineer | Application Security",
+				"endDate": "2021-07-20",
+				"id": "e2389249-b6e0-4fbd-988c-c86342bc6316",
+				"position": "Blackbaud",
+				"startDate": "2019-10-01",
+				"summary": "* Acted as a Security Liaison & BISO to help the business codify product risk and help translate prioritization of security related activities for the Core Services product portfolio.\n* Provided \"Secure by Design\" guidelines, recommendations and detailed documentation to the development community to serve as reference for Secure Software Development\n* Led business contextual Threat Modeling sessions to identify security risk.\n* Established the Security Champions program to increase developer and security partnerships\n* Supported Dynamic Application Security tooling rollout\n* Innovated aggregation and orchestration of Application Security tooling into a single consolidated platform\n* Chartered and helped advocate and manage Responsible Disclosure Program\n* Improved Third Party Risk Management assessments within the external developer ecosystem\n",
+				"website": ""
+			},
+			{
+				"company": "Senior Security Engineer | Application Security",
+				"endDate": "2019-10-01",
+				"id": "2cc2168d-3aa4-4c9c-984c-3d4d785b3dba",
+				"position": "Blackbaud",
+				"startDate": "2018-06-01",
+				"summary": "\n* Implemented Static Application Security tooling (SAST) into Product CI-CD pipelines\n* Implemented Software Composition Analysis tooling (SCA) into Product CI-CD pipelines\n* Improved the Application Security Go Live Assessment process\n* Lead team of consultants to triage SAST, SCA findings to effectively reduce internal stakeholder effort in an effort to deliver meaningful security results within the tool",
+				"website": ""
+			},
+			{
+				"company": "Senior Security Engineer | Application Security",
+				"endDate": "2018-07-01",
+				"id": "c955adc2-3137-43ca-b949-4e15a8fd47a4",
+				"position": "The Home Depot",
+				"startDate": "2017-01-01",
+				"summary": "* Worked on the Product Security & Discovery team, with alternating roles in Application Security as well as Vulnerability Management. \n* Performed Penetration Tests, In-Depth Application Assessments involving Static, Dynamic Analysis, and Manual Code Review \n* Scaled an Enterprise level consumable service to house and abstract Static Application Security Testing (SAST), and Dynamic Application Security Testing (DAST) from the end user.\n* Advisor on the  Architecture Security Assessment board, guiding internal developments, acquisitions, and integrations in a secure and functional way.\n* Notable Contributor to the in house company developed Continuous Integration Continuous Deployment (CI-CD) tool, that later was open source; created a security plugin to enable Security to be built into the Software Development Life Cycle\n",
+				"website": ""
+			},
+			{
+				"company": "IT Security Intern | Application Security",
+				"endDate": "2016-08-01",
+				"id": "0a22ccae-db69-464c-9e45-f9fe45aa1e57",
+				"position": "The Home Depot",
+				"startDate": "2016-05-01",
+				"summary": "* Conducted static and dynamic security scans on our products and internal software to provide a remediation strategy to development teams\n* Automated our software composition analysis function to bolster our open source security strategy.\n* Developed and studied the efficiency and workflow of the Product Security & Discovery team, created a new platform for a team wide collaboration initiative that better matured the IT Security department as a whole.",
+				"website": ""
+			}
+		],
+		"visible": true
+	}
+}
